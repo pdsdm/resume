@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html long="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Peps CV</title>
+    </head>
+    <body>
+        <h1>SET NAME</h1>
+        <img src="dog.png" height="100">
+        <hr/>
+        <h2>Experiences</h2>
+        <ul>
+            <li><h3>Your experience (2016-2019)</h2></li>
+                <p>My work had to do abvoutbskvn sriuw sohw srnsoifu </p>
+            <li><h3>Other experiece you had (2019-2023)</h3></li>
+                <p>This one had to do with this and that</p>
+            <li><h3>Last experiece you had (2023-ACTUAL)</h3></li>
+                <p>And this one is the last one haha</p>
+        </ul>
+        <h2>Skills</h2>
+        <ol>
+            <li>This experience</li>
+            <li>This otherxperience</li>
+            <li>This eotxperience</li>
+            <li>And this experience</li>
+            <li>This lastexperience</li>
+        </ol>
+        <h2>Education</h2>
+        <ul>
+            <li><h4>This school</h4></li>
+            <li><h4>This high school</h4></li>
+            <li><h4>This college</h4></li>
+        </ul>
+    </body>
+</html>
